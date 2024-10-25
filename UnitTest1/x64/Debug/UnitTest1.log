@@ -1,0 +1,10 @@
+﻿  UnitTest1.cpp
+C:\Users\Федина М\Desktop\Лабораторні АП\lab8.1(char)\UnitTest1\UnitTest1.cpp(1,9): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/UnitTest1.cpp')
+      C:\Users\Федина М\Desktop\Лабораторні АП\lab8.1(char)\UnitTest1\UnitTest1.cpp(1,9):
+      Add macro to precompiled header instead of defining here
+      C:\Users\Федина М\Desktop\Лабораторні АП\lab8.1(char)\UnitTest1\UnitTest1.cpp(2,1):
+      use of precompiled header
+  
+     Creating library C:\Users\Федина М\Desktop\Лабораторн? АП\lab8.1(char)\x64\Debug\UnitTest1.lib and object C:\Users\Федина М\Desktop\Лабораторн? АП\lab8.1(char)\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Федина М\Desktop\Лабораторні АП\lab8.1(char)\x64\Debug\UnitTest1.dll
